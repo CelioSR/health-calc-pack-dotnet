@@ -7,6 +7,20 @@ Objetivo:
 
 Uma biblioteca que permite cálculo de IMC e Macronutrientes, baseados nos dados inseridos pelo usuário.
 
+# Utilização:
+
+Instanciar um novo objeto do tipo IMC 
+
+Methodos disponiveis > 
+- Calc (Responsavél por retornar o numero IMC)
+  - Parametros: Altura(Tipo Double) e Peso(Tipo Double)
+  - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura,Peso);
+- IsValidData (Responsavél validar os dados informados)
+  - Parametros: Altura(Tipo Double) e Peso(Tipo Double)
+  - Exemplo: return bool RetornoIMC = ObjectIMC.IsValidData(Altura,Peso);
+- GetIMCClass (Respponsavel por retornar a classe que o individo se encontra)
+  - Parametros: IMC(Double)
+  - Exemplo: return string RetornoIMC = ObjectIMC.GetIMCClass(IMC);
 # Arquitetura
 
 <img src='nutrition-calc-diagram.jpg' alt='Diagrama'>
