@@ -9,7 +9,7 @@ namespace health_calc_pack_dotnet
             if (!IsValidData(Height, Weight))
                 throw new Exception("Parametros invalidos.");
 
-            return Math.Round(Weight * 10000 / (Math.Pow(Height, 2)), 2);
+            return Math.Round(Weight / (Math.Pow(Height, 2)), 2);
         }
 
         public string GetIMCClass(double IMC)

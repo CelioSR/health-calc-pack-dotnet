@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mbqEyEAJhSiJeg5Rm4MZRW13QHV3br/rUYVUuV/+wNNlctiK751I8edCbQPXLBqRKjdgxBNBJn/TiQXLWlYOig==",
+  "success": true,
+  "projectFilePath": "C:\\Pos\\PUC\\health-calc-pack-dotnet\\src\\health-calc-dotnet\\health-calc-console-dotnet\\health-calc-console-dotnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\celio.souza\\.nuget\\packages\\health-calc-pack-dotnet_by_celioribeiro\\1.0.1\\health-calc-pack-dotnet_by_celioribeiro.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
