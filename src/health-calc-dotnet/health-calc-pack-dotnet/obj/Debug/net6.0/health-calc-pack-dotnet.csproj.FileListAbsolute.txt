@@ -1,0 +1,12 @@
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.AssemblyReference.cache
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfoInputs.cache
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.AssemblyInfo.cs
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet.csproj.CoreCompileInputs.cache
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet_by_CelioRibeiro.deps.json
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet_by_CelioRibeiro.dll
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\bin\Debug\net6.0\health-calc-pack-dotnet_by_CelioRibeiro.pdb
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet_by_CelioRibeiro.dll
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\refint\health-calc-pack-dotnet_by_CelioRibeiro.dll
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\health-calc-pack-dotnet_by_CelioRibeiro.pdb
+C:\Pos\PUC\health-calc-pack-dotnet\src\health-calc-dotnet\health-calc-pack-dotnet\obj\Debug\net6.0\ref\health-calc-pack-dotnet_by_CelioRibeiro.dll
