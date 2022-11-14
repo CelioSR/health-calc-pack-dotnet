@@ -13,31 +13,31 @@ Instanciar um novo objeto do tipo IMC
 **Version: 1.0.0:**
 #### Methodos disponiveis > 
 - Calc (Responsavél por retornar o numero IMC)
-  - Parametros: $${\color{Altura(Tipo Double)}orange}$$ e $${\color{Peso(Tipo Double)}orange}$$
-  - Exemplo return Double RetornoIMC = ObjectIMC.Calc($${\color{Altura }orange}$$,$${\color{Peso}orange}$$);
+  - Parametros: Altura(Tipo Double) e Peso(Tipo Double)
+  - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura ,Peso);
 - IsValidData (Responsavél validar os dados informados)
   - Parametros: Altura(Tipo Double) e Peso(Tipo Double)
-  - Exemplo: return bool RetornoIMC = ObjectIMC.IsValidData($${\color{Altura}orange}$$,$${\color{Peso}orange}$$);
+  - Exemplo: return bool RetornoIMC = ObjectIMC.IsValidData(Altura,Peso);
 - GetIMCClass (Respponsavel por retornar a classe que o individo se encontra)
   - Parametros: IMC(Double)
-  - Exemplo: return string RetornoIMC = ObjectIMC.GetIMCClass($${\color{IMC}orange}$$);
+  - Exemplo: return string RetornoIMC = ObjectIMC.GetIMCClass(IMC);
 **Version: 1.0.1:**
 - *Correção de bug no calculo de IMC, o qual estava estourando o tamanho da variavel, retornando erro nao  tratado ao cliente*;
 **Version: 1.1.1:**
 Methodos add:
 - Calc (Responsavél por retornar os valores de micronutrientes com base no tipo de operação)
   - Parametros: 
-    $${\color{Sexo(int = 0 (Masculino) int = 1 (Feminino))}orange}$$
-    $${\color{Altura(Tipo Double)}orange}$$;
-    $${\color{Peso(Tipo Double)}orange}$$;
-    $${\color{NivelAtividadeFisica(int = 0 (Sedentario) 
+    Sexo(int = 0 (Masculino) int = 1 (Feminino))
+    Altura(Tipo Double);
+    Peso(Tipo Double);
+    NivelAtividadeFisica(int = 0 (Sedentario) 
                          int = 1 (ModeradamenteAtivo)
                          int = 2 (BastanteAtivo)
-                         int = 3 (ExtremamenteAtivo))}orange}$$;
-    $${\color{ObjetivoFisico(int = 0 (Bulking) 
+                         int = 3 (ExtremamenteAtivo));
+    ObjetivoFisico(int = 0 (Bulking) 
                    int = 1 (Cutting)
                    int = 2 (Maintenence))
-  - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura,Peso)}orange}$$;
+  - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura,Peso);
 # Arquitetura
 
 <img src='nutrition-calc-diagram.jpg' alt='Diagrama'>
