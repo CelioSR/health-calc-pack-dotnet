@@ -23,10 +23,10 @@ Uma biblioteca que permite cálculo de IMC e Macronutrientes, baseados nos dados
 - GetIMCClass (Respponsavel por retornar a classe que o individo se encontra)
   - Parametros: IMC(Double)
   - Exemplo: return string RetornoIMC = ObjectIMC.GetIMCClass(IMC);
-###**_______________________________________________________________________________###**
+
 ###**Version: 1.0.1:**
 - *Correção de bug no calculo de IMC, o qual estava estourando o tamanho da variavel, retornando erro nao  tratado ao cliente*;
-###**_______________________________________________________________________________###**
+
 ###**Version: 1.1.1:** 
  
  *Instanciar um novo objeto do tipo IMC para em seguida utilizar os methodos disponisveis na versão:* 
@@ -45,7 +45,7 @@ Uma biblioteca que permite cálculo de IMC e Macronutrientes, baseados nos dados
                    int = 1 (Cutting)
                    int = 2 (Maintenence))
   - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura,Peso);
-###**_______________________________________________________________________________###**
+
 # Arquitetura
 
 <img src='nutrition-calc-diagram.jpg' alt='Diagrama'>
