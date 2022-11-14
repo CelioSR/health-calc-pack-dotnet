@@ -10,7 +10,7 @@ Uma biblioteca que permite cálculo de IMC e Macronutrientes, baseados nos dados
 # Utilização:
 
 Instanciar um novo objeto do tipo IMC 
-**Version: 1.0.0:**
+#####**Version: 1.0.0:**
 #### Methodos disponiveis > 
 - Calc (Responsavél por retornar o numero IMC)
   - Parametros: Altura(Tipo Double) e Peso(Tipo Double)
@@ -21,10 +21,12 @@ Instanciar um novo objeto do tipo IMC
 - GetIMCClass (Respponsavel por retornar a classe que o individo se encontra)
   - Parametros: IMC(Double)
   - Exemplo: return string RetornoIMC = ObjectIMC.GetIMCClass(IMC);
-**Version: 1.0.1:**
+
+#####**Version: 1.0.1:**
 - *Correção de bug no calculo de IMC, o qual estava estourando o tamanho da variavel, retornando erro nao  tratado ao cliente*;
-**Version: 1.1.1:**
-Methodos add:
+
+#####**Version: 1.1.1:** 
+**Methodos add:**
 - Calc (Responsavél por retornar os valores de micronutrientes com base no tipo de operação)
   - Parametros: 
     Sexo(int = 0 (Masculino) int = 1 (Feminino))
