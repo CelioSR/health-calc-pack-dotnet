@@ -37,12 +37,12 @@ Uma biblioteca que permite cálculo de IMC e Macronutrientes, baseados nos dados
     Sexo(int = 0 (Masculino) int = 1 (Feminino))
     Altura(Tipo Double);
     Peso(Tipo Double);
-    NivelAtividadeFisica(int = 0 (Sedentario) 
-                         int = 1 (ModeradamenteAtivo)
-                         int = 2 (BastanteAtivo)
+    NivelAtividadeFisica(int = 0 (Sedentario), 
+                         int = 1 (ModeradamenteAtivo),
+                         int = 2 (BastanteAtivo),
                          int = 3 (ExtremamenteAtivo));
-    ObjetivoFisico(int = 0 (Bulking) 
-                   int = 1 (Cutting)
+    ObjetivoFisico(int = 0 (Bulking), 
+                   int = 1 (Cutting),
                    int = 2 (Maintenence))
   - Exemplo return Double RetornoIMC = ObjectIMC.Calc(Altura,Peso);
 
